@@ -3,5 +3,7 @@
     <array name="preloaded_fonts" translatable="false">
         <item>@font/bungee_shade</item>
         <item>@font/convergence</item>
+        <item>@font/gabriela</item>
+        <item>@font/quando</item>
     </array>
 </resources>

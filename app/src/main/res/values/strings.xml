@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">UBER PUBLICO</string>
+    <string-array name="Usuarios">
+        <item>Selecciona</item>
+        <item>Pasajero</item>
+        <item>Conductor</item>
+        <item>Administrador</item>
+    </string-array>
+
 </resources>
