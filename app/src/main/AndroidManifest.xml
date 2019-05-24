@@ -25,7 +25,8 @@
         <activity android:name=".Registrar" />
         <activity android:name=".PedirRuta" />
         <activity android:name=".Metodopago" />
-        <activity android:name=".Conductor"></activity>
+        <activity android:name=".Conductor" />
+        <activity android:name=".perfilconductor"></activity>
     </application>
 
 </manifest>
