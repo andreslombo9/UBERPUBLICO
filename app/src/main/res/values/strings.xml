@@ -1,10 +1,21 @@
 <resources>
     <string name="app_name">UBER PUBLICO</string>
     <string-array name="Usuarios">
-        <item>Selecciona</item>
         <item>Pasajero</item>
         <item>Conductor</item>
         <item>Administrador</item>
+    </string-array>
+
+    <string-array name="Pagos">
+        <item>Tarjeta de crédito</item>
+        <item>Tarjeta débito</item>
+        <item>Efectivo</item>
+    </string-array>
+
+    <string-array name="Buses">
+        <item>SUDA</item>
+        <item>Flota Aguilucho</item>
+        <item>Libertad</item>
     </string-array>
 
 </resources>
